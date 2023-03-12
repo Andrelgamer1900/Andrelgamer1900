@@ -1,7 +1,6 @@
 ### Hi Guys, I'm André Leandro. 
 -  I'm working as a strategist using excel and powerBi
 -  Focus on software engineer
--  Pronouns: He/His
 <div align="center">
   <a href="https://github.com/Andrelgamer1900">
 </div>
