@@ -23,7 +23,7 @@
   <img align="center" alt="andre-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">  
 <img align="center" alt="andre-javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">  
 </div>
-#### Contact me:
+ Contact me:
 
 [![Email](https://img.shields.io/static/v1?logoColor=white&logo=gmail&message=leandroandre051@gmail.com&color=black&label=&labelColor=101010&style=flat)](mailto:leandroandre051@gmail.com)
 
