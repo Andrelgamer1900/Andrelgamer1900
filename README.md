@@ -27,4 +27,4 @@
 
 [![Email](https://img.shields.io/static/v1?logoColor=white&logo=gmail&message=leandroandre051@gmail.com&color=black&label=&labelColor=101010&style=flat)](mailto:leandroandre051@gmail.com)
 
-[![Whatsapp](https://img.shields.io/static/v1?logoColor=white&logo=whatsapp&message=%2b51%20956950473&color=black&label=&labelColor=101010&style=flat)](https://wa.me/11956950473)
+[![Whatsapp](https://img.shields.io/static/v1?logoColor=white&logo=whatsapp&message=%2b55%20956950473&color=black&label=&labelColor=101010&style=flat)](https://wa.me/11956950473)
