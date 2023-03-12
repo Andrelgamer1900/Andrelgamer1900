@@ -1,5 +1,5 @@
 ### Hi Guys, I'm André Leandro. 
--  Focus on software engineer
+- 📚 Focus on software engineer
 <div align="center">
   <a href="https://github.com/Andrelgamer1900">
 </div>
