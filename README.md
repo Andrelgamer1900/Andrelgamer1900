@@ -23,3 +23,8 @@
   <img align="center" alt="andre-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">  
 <img align="center" alt="andre-javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">  
 </div>
+#### Contact me:
+
+[![Email](https://img.shields.io/static/v1?logoColor=white&logo=gmail&message=victorcastro.io@icloud.com&color=black&label=&labelColor=101010&style=flat)](mailto:leandroandre051@gmail.com)
+
+[![Whatsapp](https://img.shields.io/static/v1?logoColor=white&logo=whatsapp&message=%2b51%20961509467&color=black&label=&labelColor=101010&style=flat)](https://wa.me/11956950473)
